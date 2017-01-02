@@ -1,0 +1,9 @@
+﻿  World.cpp
+c:\users\andrew\documents\visual studio 2015\projects\mapgenerator\world.h(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\andrew\documents\visual studio 2015\projects\mapgenerator\world.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\andrew\documents\visual studio 2015\projects\mapgenerator\world.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\andrew\documents\visual studio 2015\projects\mapgenerator\world.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\andrew\documents\visual studio 2015\projects\mapgenerator\world.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\andrew\documents\visual studio 2015\projects\mapgenerator\world.cpp(95): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\andrew\documents\visual studio 2015\projects\mapgenerator\world.cpp(101): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  MapGenerator.vcxproj -> C:\Users\Andrew\documents\visual studio 2015\Projects\MapGenerator\Debug\MapGenerator.exe
